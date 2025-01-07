@@ -10,7 +10,7 @@ A simple web application that displays current weather information using the Ope
     - Weather conditions description
     - Current time
 
-## Technical Details
+## Details
 
 Built using vanilla JavaScript, HTML, and CSS/Bootstrap styling. The application makes API calls to Open-Meteo's weather service to fetch current weather data for State College, PA.
 
